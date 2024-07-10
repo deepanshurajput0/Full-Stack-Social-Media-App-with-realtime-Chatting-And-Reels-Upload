@@ -1,0 +1,38 @@
+.reel-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px; /* Adjust max-width as per your design */
+    margin-bottom: 20px; /* Space between reels */
+  }
+  
+  .reels-video {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom: 10px; /* Adjust position as per your design */
+    left: 10px; /* Adjust position as per your design */
+    align-items: center;
+  
+    padding: 8px;
+    border-radius: 4px;
+  }
+  
+  .overlay > * {
+    margin-right: 8px; /* Adjust spacing between elements */
+    color: white; /* Text color */
+  }
+  
+  .caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+    padding: 8px;
+    color: white; /* Text color */
+  }
+  
