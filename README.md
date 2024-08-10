@@ -1,6 +1,6 @@
 # Full Stack Social Media App 
 
-## Users can create posts,delete post with Image uploading by using Cloudinary
+## Users can create posts,delete posts 
 ![Screenshot (126)](https://github.com/user-attachments/assets/ddee272b-57c6-4b7b-b2df-66b489dfc16d)
 
 ![Screenshot (107)](https://github.com/user-attachments/assets/047e49eb-4714-4fbc-b2c0-cb0bb1f93c73)
@@ -15,7 +15,7 @@
 
 ![Screenshot (127)](https://github.com/user-attachments/assets/15cfd4e8-b136-4a5e-8e3d-b4b8bef912b7)
 
-## Users can do realtime chatting  Tech - Socket .io 
+## Users can do realtime chatting  by ussing Socket .io 
 ![Screenshot (112)](https://github.com/user-attachments/assets/badab74c-8e6f-40d8-8c78-cc14cf5ae759)
 
 ## Users can upload reels and watch it also do likes & comments on it 
