@@ -42,6 +42,4 @@ This app is built using a modern stack to ensure high performance and scalabilit
 - **Database:** MongoDB
 - **Real-Time Communication:** Socket.io
 
----
 
-This README not only highlights the features of your social media app but also showcases the tech stack in a visually appealing and engaging manner.
