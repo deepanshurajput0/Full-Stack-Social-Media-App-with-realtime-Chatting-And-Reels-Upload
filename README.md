@@ -1,4 +1,4 @@
-#Full Stack Social Media App 
+# Full Stack Social Media App 
 
 ## Users can create posts,delete post with Image uploading by using Cloudinary
 ![Screenshot (126)](https://github.com/user-attachments/assets/ddee272b-57c6-4b7b-b2df-66b489dfc16d)
